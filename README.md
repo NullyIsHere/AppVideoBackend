@@ -29,7 +29,7 @@ The backend server is for all applications is one FastAPI server that can be run
 ## Installation
 
 1. Clone the repository
-2. Change .env.example to .end and fill in the required fields (Make sure to import Firebase credentials JSON file)
+2. Change .env.example to .env and fill in the required fields (Make sure to import Firebase credentials JSON file)
     1. Ngrok is required for the backend to work with the Flutter app.
 3. Run docker compose up to start the backend server.
 4. Choose an app to run in the apps repository.
